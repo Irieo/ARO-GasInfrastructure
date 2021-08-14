@@ -1,0 +1,17 @@
+set=n               rng=sets!B2       rdim=1
+set=g               rng=sets!D2       rdim=1
+set=d               rng=sets!F2       rdim=1
+set=mapG            rng=sets!H2       rdim=2
+set=mapD            rng=sets!L2       rdim=2
+set=l               rng=network!B2    rdim=1
+set=ex              rng=network!D2    rdim=1
+set=pros            rng=network!F2    rdim=1
+set=mapSL           rng=network!H3    rdim=2
+set=mapRL           rng=network!K3    rdim=2
+par=LDATA           rng=network!N2    rdim=1 cdim=1
+par=DDATA           rng=demand!A1     rdim=1 cdim=1
+par=GDATA           rng=supply!A1     rdim=1 cdim=1
+par=D_M_LO          rng=demand!F1     rdim=1 cdim=1
+par=D_M_DELTA       rng=demand!F34    rdim=1 cdim=1
+par=StorageData     rng=Storage!A2    rdim=1 cdim=1
+par=EminS           rng=Storage!K2    rdim=1 cdim=1
