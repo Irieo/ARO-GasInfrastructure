@@ -1,0 +1,9 @@
+ **/.lst
+**/.lxi
+**/.log
+**/.~gm
+*.log
+*.lst
+*.lxi
+*.tmp
+*.~gm
