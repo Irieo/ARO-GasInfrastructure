@@ -10,7 +10,7 @@ Capacity planning, gas infrastructure, robust optimization, uncertainty
 Working paper link soon.
 
 ### The code reproduces the benchmarks from the paper 
-Note that model output files are not uploaded to github due to limits on individual file size and on repository size in general. 
+Note that model output files are uploaded into 'results' folder. The folder contains the results used in the paper in the [GAMS Data eXchange (GDX)](https://www.gams.com/latest/docs/UG_GDX.html) format 
 
 ### Citing us
 
