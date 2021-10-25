@@ -7,7 +7,7 @@
 Adaptive robust optimization; Capacity planning; European gas market; Uncertainty
 
 ### Links: 
-Working paper link soon.
+Working paper: http://www.optimization-online.org/DB_FILE/2021/10/8654.pdf
 
 ### The code reproduces the benchmarks from the paper 
 Note that model output files are uploaded into 'results' folder. The folder contains the results used in the paper in the [GAMS Data eXchange (GDX)](https://www.gams.com/latest/docs/UG_GDX.html) format 
@@ -19,7 +19,14 @@ The ARO model used in our paper is free: you can access, modify and share it und
 If you use the model or its components for your research, we would appreciate it if you
 would cite us as follows:
 ```
-@article{
-working paper
+@techreport{Riepin2021,
+author = {Riepin, Iegor and Schmidt, Matthew and Baringo, Luis and M{\"{u}}sgens, Felix},
+institution = {Optimization Online: an eprint site for the optimization community},
+keywords = {Adaptive robust optimization,Capacity planning,European gas market,Uncertainty},
+number = {8654},
+series = {OO Working Paper},
+title = {{European Gas Infrastructure Expansion Planning: An Adaptive Robust Optimization Approach}},
+url = {http://www.optimization-online.org/DB_HTML/2021/10/8654.html},
+year = {2021}
 }
 ```
