@@ -53,7 +53,7 @@ SETS
     g               gas production facilities
     d               demands
     mapG(g,n)       mapping (gen to n)
-    mapD(d,n)       mapping (dem to n()
+    mapD(d,n)       mapping (dem to n)
 
     l               arcs
     ex(l)           existing arcs (subset)
@@ -196,11 +196,11 @@ IC(l) = LDATA(l,"exp_costs_1");
 Equations
 #   Master
     MP_OBJ
-    MP_marketclear(n,t,v)   [careful in GDX: v1 is the last iteration]
-    MP_PG(g,t,v)            [careful in GDX: v1 is the last iteration]
-    MP_PLEX(l,t,v)          [careful in GDX: v1 is the last iteration]
-    MP_PLPROS(l,t,v)        [careful in GDX: v1 is the last iteration]
-    MP_LS(d,t,v)            [careful in GDX: v1 is the last iteration]
+    MP_marketclear(n,t,v)
+    MP_PG(g,t,v)         
+    MP_PLEX(l,t,v)       
+    MP_PLPROS(l,t,v)     
+    MP_LS(d,t,v)         
     MP_ETA(v)
     MP_SCCAP
     MP_SDCAP
