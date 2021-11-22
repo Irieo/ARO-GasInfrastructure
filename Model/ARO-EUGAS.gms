@@ -1,11 +1,11 @@
 
-$TITLE BigEurope-monthly
+$TITLE ARO_GasMod
 
 $ontext
 --------------------------------------------------------------------------
 ..........................................................................
 
-Version: (v7)
+Version: final (v6)
 Date: 16.03.2021
 
 Ready:
@@ -18,8 +18,7 @@ Ready:
 - scenario matrix
 - monthly data input
 - storages in primal and dual form
-
-- Allows for PCI list investments only
+- allows for PCI list investments only
 
 ..........................................................................
 --------------------------------------------------------------------------
