@@ -7,7 +7,7 @@
 Adaptive robust optimization; Capacity planning; European gas market; Uncertainty
 
 ### Links: 
-Working paper: http://www.optimization-online.org/DB_FILE/2021/10/8654.pdf
+Working paper: http://www.optimization-online.org/DB_FILE/2021/10/8654.pdf  
 Journal paper: https://doi.org/10.1016/j.apenergy.2022.119686
 
 ### The code reproduces the benchmarks from the paper 
